@@ -32,6 +32,8 @@ body{
     margin-left: -40px;
 }
 
+/* Styling the buttons*/
+
 #login:hover{
     background-color: rgb(210, 210, 210);
 }
